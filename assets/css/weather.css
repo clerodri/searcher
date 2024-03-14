@@ -1,0 +1,16 @@
+.bg-gradient-weather {
+    /* background-image: linear-gradient(128deg, #3A5859 0%, #D6C6A9 100%); */
+    background-image: linear-gradient(128deg, #feffb8 0%, #f33b3b 100%);
+}
+
+.text-golden {
+    color: #7d4708;
+}
+
+.sunny {
+    color: #e9e917;
+}
+
+.rainy {
+    color: #32dddd;
+}
